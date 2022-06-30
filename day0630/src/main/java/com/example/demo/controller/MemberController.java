@@ -9,4 +9,5 @@ public class MemberController {
 	public String listMember() {
 		return "회원목록";
 	}
+	
 }
